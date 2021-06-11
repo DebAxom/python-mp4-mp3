@@ -9,7 +9,7 @@ git clone https://github.com/DebAxom/python-mp4-mp3/
 ```
 ### Install the modules
 ```
-pip install -r requirnments.txt
+pip install -r requirments.txt
 ```
 ### Run the file
 ```
